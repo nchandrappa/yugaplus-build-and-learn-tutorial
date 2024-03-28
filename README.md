@@ -1,6 +1,6 @@
 # YugaPlus: Movie Recommendations Service for the YugabyteDB Build & Learn Tutorial
 
-Learn YugabyteDB's essential capabilities by following the Build & Learn tutorial (link TBD).
+Learn YugabyteDB's essential capabilities by following the [Build & Learn tutorial](https://docs.yugabyte.com/preview/tutorials/build-and-learn/).
 
 This repository contains the source code, configuration, and deployment files for YugaPlus, the movie recommendations service you'll build in the tutorial.
 
